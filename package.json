@@ -1,0 +1,24 @@
+{
+  "name": "09-good-readme-generator",
+  "version": "1.0.0",
+  "description": "Homework 09 - Good README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susieotto/good-readme-generator.git"
+  },
+  "author": "Susie Otto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/susieotto/good-readme-generator/issues"
+  },
+  "homepage": "https://github.com/susieotto/good-readme-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.2",
+    "utils": "^0.3.1"
+  }
+}
